@@ -1,0 +1,16 @@
+C:\Users\dario\Documents\BootCampMRV\DotNet\DIO.Banco\DIO.Banco\bin\Debug\net5.0\DIO.Banco.exe
+C:\Users\dario\Documents\BootCampMRV\DotNet\DIO.Banco\DIO.Banco\bin\Debug\net5.0\DIO.Banco.deps.json
+C:\Users\dario\Documents\BootCampMRV\DotNet\DIO.Banco\DIO.Banco\bin\Debug\net5.0\DIO.Banco.runtimeconfig.json
+C:\Users\dario\Documents\BootCampMRV\DotNet\DIO.Banco\DIO.Banco\bin\Debug\net5.0\DIO.Banco.runtimeconfig.dev.json
+C:\Users\dario\Documents\BootCampMRV\DotNet\DIO.Banco\DIO.Banco\bin\Debug\net5.0\DIO.Banco.dll
+C:\Users\dario\Documents\BootCampMRV\DotNet\DIO.Banco\DIO.Banco\bin\Debug\net5.0\ref\DIO.Banco.dll
+C:\Users\dario\Documents\BootCampMRV\DotNet\DIO.Banco\DIO.Banco\bin\Debug\net5.0\DIO.Banco.pdb
+C:\Users\dario\Documents\BootCampMRV\DotNet\DIO.Banco\DIO.Banco\obj\Debug\net5.0\DIO.Banco.csprojAssemblyReference.cache
+C:\Users\dario\Documents\BootCampMRV\DotNet\DIO.Banco\DIO.Banco\obj\Debug\net5.0\DIO.Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dario\Documents\BootCampMRV\DotNet\DIO.Banco\DIO.Banco\obj\Debug\net5.0\DIO.Banco.AssemblyInfoInputs.cache
+C:\Users\dario\Documents\BootCampMRV\DotNet\DIO.Banco\DIO.Banco\obj\Debug\net5.0\DIO.Banco.AssemblyInfo.cs
+C:\Users\dario\Documents\BootCampMRV\DotNet\DIO.Banco\DIO.Banco\obj\Debug\net5.0\DIO.Banco.csproj.CoreCompileInputs.cache
+C:\Users\dario\Documents\BootCampMRV\DotNet\DIO.Banco\DIO.Banco\obj\Debug\net5.0\DIO.Banco.dll
+C:\Users\dario\Documents\BootCampMRV\DotNet\DIO.Banco\DIO.Banco\obj\Debug\net5.0\ref\DIO.Banco.dll
+C:\Users\dario\Documents\BootCampMRV\DotNet\DIO.Banco\DIO.Banco\obj\Debug\net5.0\DIO.Banco.pdb
+C:\Users\dario\Documents\BootCampMRV\DotNet\DIO.Banco\DIO.Banco\obj\Debug\net5.0\DIO.Banco.genruntimeconfig.cache
